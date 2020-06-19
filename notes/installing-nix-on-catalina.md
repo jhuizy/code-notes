@@ -2,7 +2,7 @@
 title: Installing nix on MacOS Catalina
 tags:
   - nix
-  - macosq
+  - macos
 emoji: 🐚
 link: https://github.com/jhuizy/code-notes
 ---
