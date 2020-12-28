@@ -31,6 +31,6 @@
   "devDependencies": {
     "gatsby-plugin-sharp": "^2.6.11",
     "gatsby-remark-images": "^3.3.10",
-    "gatsby-source-filesystem": "^2.3.11"
+    "gatsby-source-filesystem": "^2.8.1"
   }
 }
