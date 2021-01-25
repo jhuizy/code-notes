@@ -29,7 +29,7 @@
     "url": "https://github.com/mrmartineau/gatsby-starter-code-notes/issues"
   },
   "devDependencies": {
-    "gatsby-plugin-sharp": "^2.6.11",
+    "gatsby-plugin-sharp": "^2.13.1",
     "gatsby-remark-images": "^3.3.10",
     "gatsby-source-filesystem": "^2.3.11"
   }
